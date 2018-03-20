@@ -15,11 +15,6 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "h0lwgvpvuoge24z9",
-    "password": "tz00mporp6q0ggcc",
-    "port": 3306,
-    "database": "burger_db",
-    "host": "gzp0u91edhmxszwf.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "use_env_variable": "JAWSDB_URL",
     "dialect": "mysql"
   }
